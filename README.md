@@ -103,6 +103,3 @@ git push -u origin main
 ## 📜 授權
 本專案採用 **MIT License**，詳見 [LICENSE](LICENSE)。
 
----
-🎉 **恭喜！現在你的記事本應用程式已經完成並可在 GitHub 上公開分享！**
-
