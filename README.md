@@ -188,9 +188,8 @@ git push -u origin main
 - **Make** - 建置工具
 - **GitHub** - 版本控制與協作
 
-## 📜 授權
-本專案採用 **MIT License**，詳見 [LICENSE](LICENSE)。
 
+<<<<<<< HEAD
 ---
 🎉 **恭喜！現在你的 SQL 記事本應用程式已經完成並可在 GitHub 上公開分享！**
 
@@ -220,3 +219,5 @@ g++ notebook.cpp -o notebook -lsqlite3
 chmod +w .
 ```
 
+=======
+>>>>>>> 2f554e572ddaa5a20695cfddf0fd6d0ff71f0f2e
